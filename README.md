@@ -13,8 +13,8 @@ Here are some of the projects I've worked on:
 - [Lot more](https://github.com/rathodloki?tab=repositories)
 
 # Some Fun projects
--[Joke Machine](https://github.com/rathodloki/jokers.github.io)
--[Though-creator](https://github.com/rathodloki/Though-creator)
+- [Joke Machine](https://github.com/rathodloki/jokers.github.io)
+- [Though-creator](https://github.com/rathodloki/Though-creator)
 
 ## Contact
 
