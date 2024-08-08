@@ -12,7 +12,7 @@ Here are some of the projects I've worked on:
 - [Monitoring-app](https://github.com/rathodloki/Monitoring-app): A Flask web app for monitoring CPU and Ram resource usage
 - [Lot more](https://github.com/rathodloki?tab=repositories)
 
-#Some Fun projects
+# Some Fun projects
 -[Joke Machine](https://github.com/rathodloki/jokers.github.io)
 -[Though-creator](https://github.com/rathodloki/Though-creator)
 
