@@ -1,24 +1,20 @@
 # Hi, I'm Lokendar 👋
 
-I'm a DevOps Engineer and Automation Engineer with experience in **AWS**, **Kubernetes**, **Jenkins**, **Linux**, **Python**, **Flask**, and **shell scripting**. I'm passionate about leveraging automation tools to improve development and deployment workflows, and I'm always looking for ways to optimize and streamline processes.
+👋 Hey there! I’m Lokendar, a backend developer with 4 years of experience in DevOps. Currently exploring the creative realms of UI/UX and frontend development. From automating workflows to crafting stunning interfaces, I'm passionate about blending tech with creativity. Always eager to learn, innovate, and bring fresh ideas to life. Let’s build something amazing together! 🚀
 
-## Skills
-
-- AWS (EC2, S3, VPC, IAM, Route53, CloudFront, etc.)
-- Kubernetes (deployment, scaling, management)
-- Jenkins (pipelines, jobs, plugins)
-- Linux (Ubuntu, CentOS, RHEL, etc.)
-- Python (automation scripts, Flask web apps, data analysis)
-- Shell scripting (bash, zsh, etc.)
-- Git (version control, branching, merging, etc.)
 
 ## Projects
 
 Here are some of the projects I've worked on:
 
-- [Project 1](https://github.com/rathodloki/ec2-auto-creation): A Python script for automating AWS EC2 instance creation and management
-- [Project 2](https://github.com/rathodloki/ci-cd-pipeline): A AWS Code pipeline for deploying Reactjs with github and AWS code deploy
-- [Project 3](https://github.com/rathodloki/Monitoring-app): A Flask web app for monitoring CPU and Ram resource usage
+- [ec2-auto-creation](https://github.com/rathodloki/ec2-auto-creation): A Python script for automating AWS EC2 instance creation and management
+- [AWS ci-cd-pipeline](https://github.com/rathodloki/ci-cd-pipeline): A AWS Code pipeline for deploying Reactjs with github and AWS code deploy
+- [Monitoring-app](https://github.com/rathodloki/Monitoring-app): A Flask web app for monitoring CPU and Ram resource usage
+- [Lot more](https://github.com/rathodloki?tab=repositories)
+
+#Some Fun projects
+-[Joke Machine](https://github.com/rathodloki/jokers.github.io)
+-[Though-creator](https://github.com/rathodloki/Though-creator)
 
 ## Contact
 
